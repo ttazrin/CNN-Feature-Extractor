@@ -1,1 +1,1 @@
-The following python code is a fusion of convolutional neural network and random forest that takes the features that convolutional layers extract and input those features in random forest algorithm.
+The following python code is a fusion of convolutional neural network and random forest that takes the features extracted by convolutional layers and input those features in random forest algorithm.
